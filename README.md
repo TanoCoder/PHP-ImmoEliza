@@ -1,7 +1,5 @@
 # ImmoEliza
 
-Vous pouvez accédez au projet en cliquant [ici](https://immoeliza.herokuapp.com/).
-
 ## ImmoEmliza, c'est quoi ?
 
 ImmoEliza est une application qui permet de récuperer une estimation de la valeur de n'importe quelle propriété en Wallonie (qui se trouve dans la base de données) en entrant le code postal, la rue et le numéro de maison.
